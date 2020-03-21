@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "605597755579",
+    "firebase_url": "https://chaikhana-6dbd0.firebaseio.com",
+    "project_id": "chaikhana-6dbd0",
+    "storage_bucket": "chaikhana-6dbd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605597755579:android:3e25281c1cf2b78b04619e",
+        "android_client_info": {
+          "package_name": "com.example.chaikhana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605597755579-u64egt7s88aov4s2dlcf5m1fcj5of6fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHri2_4cEqq6wBbrjVois5wXkQA2QSIKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605597755579-u64egt7s88aov4s2dlcf5m1fcj5of6fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
